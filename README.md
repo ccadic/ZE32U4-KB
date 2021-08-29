@@ -11,7 +11,12 @@ The OLED is an I2C SSD1336: https://www.amazon.com/Pieces-Display-Module-SSD1306
 
 Size: 70x80
 
-YOu have a demo software for aduino in the appropriate subdirectory.
+You have a demo software for aduino in the appropriate subdirectory.
+
+![alt text](https://github.com/ccadic/ZE32U4-KB/blob/main/kailh-keys-mods2.jpg)
+
+
+
 
 
 
